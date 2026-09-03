@@ -4,6 +4,10 @@
 
 An AI-powered n8n workflow that automates applicant email processing by validating incoming applications, extracting candidate information from CV documents, and handling HR follow-up communication.
 
+## Workflow Overview
+
+![Workflow Overview](workflow-overview.png)
+
 ## Workflow Architecture
 
 Gmail Trigger  
